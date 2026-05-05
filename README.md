@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-rfid-contactless-payment-flaticons-lineal-color-flat-icons.png" width="120"/>
 </p>
-
 <h1 align="center">RFID Based Attendance System</h1>
 <p align="center">Smart | IoT Enabled | ESP32 Powered</p>
 
