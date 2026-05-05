@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-rfid-contactless-payment-flaticons-lineal-color-flat-icons.png" width="120" />
+</p>
+
+<h1 align="center">📡 RFID Attendance System using ESP32</h1>
+
+<p align="center">
+  🚀 Smart | Contactless | IoT-Based Attendance Tracking System  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge&logo=espressif" />
+  <img src="https://img.shields.io/badge/RFID-RC522-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-C%2FC++-orange?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
+
+---
+
 # 📡 RFID Attendance System using PHP & ESP32
 
 🚀 A complete **RFID-based Attendance Management System** integrated with **ESP32, PHP, and MySQL** for real-time attendance tracking. This system automatically records attendance when an RFID card is scanned and displays it on a web dashboard.
