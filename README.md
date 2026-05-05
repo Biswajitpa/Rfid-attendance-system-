@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rfid.png" width="120"/>
+  <img src="https://img.icons8.com/color/480/rfid-signal.png" width="130"/>
 </p>
 <h1 align="center">RFID Based Attendance System</h1>
 <p align="center">Smart | IoT Enabled | ESP32 Powered</p>
