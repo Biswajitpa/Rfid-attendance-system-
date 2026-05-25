@@ -2,7 +2,13 @@
   <img src="https://img.icons8.com/color/480/rfid-signal.png" width="130"/>
 </p>
 
-<h1 align="center">📡 RFID Attendance System using ESP32</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=180&section=header&text=RFID%20Attendance%20System&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=ESP32+Based+Smart+Attendance+System;RFID+%7C+IoT+%7C+Real-Time+Monitoring;Secure+%26+Automated+Attendance+Tracking" />
+</h3>
 
 <p align="center">
   🚀 Smart | Contactless | IoT-Based Attendance Tracking System  
