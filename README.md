@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/480/rfid-signal.png" width="130"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=180&section=header&text=RFID%20Attendance%20System&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
