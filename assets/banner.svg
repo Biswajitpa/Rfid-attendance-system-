@@ -1,0 +1,37 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#001C30"/>
+      <stop offset="100%" stop-color="#003354"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#33C9FF"/>
+      <stop offset="100%" stop-color="#00F7FF">
+        <animate attributeName="offset" values="0.9;1.4;0.9" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <path id="wave" d="M0,140 C150,170 300,110 450,140 C600,170 750,110 900,140 L900,170 L0,170 Z"/>
+  </defs>
+
+  <rect width="900" height="170" rx="16" fill="url(#bg)"/>
+  <use href="#wave" fill="#0055FF" opacity="0.35"/>
+
+  <text x="450" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700"
+        fill="url(#titleGrad)" text-anchor="middle">
+    RFID Attendance System
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+  </text>
+
+  <text x="450" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400"
+        fill="#B8E9FF" text-anchor="middle">
+    ESP32 • RFID • Real-Time Attendance Tracking
+    <animate attributeName="opacity" values="0;0;1" dur="1.8s" fill="freeze"/>
+  </text>
+
+  <text x="450" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="500"
+        fill="#00F7FF" text-anchor="middle">
+    Smart • Contactless • IoT-Based Attendance
+    <animate attributeName="opacity" values="0;0;0;1" dur="2.6s" fill="freeze"/>
+  </text>
+</svg>
